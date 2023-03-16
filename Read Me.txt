@@ -1,0 +1,6 @@
+This portfolio is a simple website built using HTML, CSS, and JavaScript. The website consists of three pages - Home, Projects, and Contact.
+
+The Home page displays a hero image and some information about the owner of the portfolio. The Projects page displays some of the owner's projects in a grid layout with images and short descriptions. The Contact page displays a form that visitors can fill out to send a message to the owner.
+
+The JavaScript code in this portfolio handles the form submission on the Contact page by encoding the form data and redirecting the user to their email client with a new message composed with the encoded form data.
+
